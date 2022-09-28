@@ -36,54 +36,44 @@ In accordance to the feature delivery plan, user stories would be ready in week4
 ## Incremental feature delivery
 
 Week1 (week 4 in teaching calendar, this week) (Step1)
-
 - Familiarize with kata-container core concepts
 - Learn rust, get rust-runtime to build?
 - Get kata-containers to run
 - Walk through the codebase
 
 Week2 (Step2)
-
 - Familiarize with code base
 - Learn rust through unit tests
 
 Week3
-
 - Learn rust through unit tests
 
 Week4
-
 - Learn rust through unit tests
 - Assessment on project:
   - CLI improvements?
   - features?
 
 Week5 (Step3)
-
 - Project design & impl
 
 Week6
-
 - Project impl
 
 Week7
-
 - Project impl
 - Project testing
 - Project mid term report
 
 Week8
-
 - Project impl
 - Project testing
 
 Week9
-
 - Project assessment
 - Final Project amendments
 
 Week10
-
 - Final presentation:
   - Kata intro
     = Actual project
