@@ -26,7 +26,6 @@ Mentors:
 2\. Chao Wu (chaowu@linux.alibaba.com)  
 3\. Zhongtao Hu (zhongtaohu.tim@linux.alibaba.com)
 ## Background: 
-=====
 The Kata container project is gradually migrating from go to rust as v3 rolls out as rust performs better and is safer in multi-threaded environments. V3 has both go and rust runtime. Potential work can focus on the kata container tool chain: kata-runtime (go), or katactl (rust).  
 
 ## Vision
