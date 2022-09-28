@@ -9,6 +9,7 @@ Team:
  
  
 1\. Tingzhou Yuan (tzyuan15@bu.edu)
+
 2\. Alex Lee (alee23@bu.edu)  
 3\. Dabin Jang (djang12@bu.edu)  
 4\. Junyi Tang (jytang2@bu.edu)  
