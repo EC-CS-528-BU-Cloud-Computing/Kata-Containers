@@ -1,5 +1,32 @@
 # Kata-Container
 
+Team:
+=====
+ 
+* * *
+ 
+  
+ 
+1\. Tingzhou Yuan (tzyuan15@bu.edu)
+ 
+2\. Alex Lee (alee23@bu.edu)  
+3\. Dabin Jang (djang12@bu.edu)  
+4\. Junyi Tang (jytang2@bu.edu)  
+5\. Zhenhuan Wu (zhenhuan@bu.edu)
+ 
+  
+ 
+Mentors:
+========
+ 
+* * *
+ 
+  
+ 
+1\. James Hunt (james.o.hunt@intel.com)
+ 
+2\. Chao Wu (chaowu@linux.alibaba.com)  
+3\. Zhongtao Hu (zhongtaohu.tim@linux.alibaba.com)
 ## Background: 
 The Kata container project is gradually migrating from go to rust as v3 rolls out as rust performs better and is safer in multi-threaded environments. V3 has both go and rust runtime. Potential work can focus on the kata container tool chain: kata-runtime (go), or katactl (rust).  
 
