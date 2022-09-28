@@ -17,40 +17,40 @@ In accordance to the feature delivery plan, user stories would be ready in week4
 
 ## Incremental feature delivery
 Week1 (week 4 in teaching calendar, this week) (Step1)
-Familiarize with kata-container core concepts
-Learn rust, get rust-runtime to build?
-Get kata-containers to run
-Walk through the codebase
+- Familiarize with kata-container core concepts
+- Learn rust, get rust-runtime to build?
+- Get kata-containers to run
+- Walk through the codebase
 Week2 (Step2)
-Familiarize with code base
-Learn rust through unit tests
+- Familiarize with code base
+- Learn rust through unit tests
 Week3
-Learn rust through unit tests
+- Learn rust through unit tests
 Week4
-Learn rust through unit tests
-Assessment on project: 
-CLI improvements?
-features?
+- Learn rust through unit tests
+- Assessment on project: 
+  - CLI improvements?
+  - features?
 Week5 (Step3)
-Project design & impl
+- Project design & impl
 Week6
-Project impl
+- Project impl
 Week7
-Project impl
-Project testing
-Project mid term report
+- Project impl
+- Project testing
+- Project mid term report
 Week8
-Project impl
-Project testing
+- Project impl
+- Project testing
 Week9
-Project assessment
-Final Project amendments
+- Project assessment
+- Final Project amendments
 Week10
-Final presentation:
-Kata intro
-Actual project  
+- Final presentation:
+   - Kata intro
+   = Actual project  
 
 ## Acceptance Criteria
 The core evaluation would be subjective to each person,  depending on how much one’s learned or a team’s learned across 10 weeks. In the final presentation, the team is expected to share knowledge on both kata containers in an architecture level as well as detailed features, which should be confirmed by week4. It is reasonable for evaluations to be not based on actual output as spending time to learn a new & trending high performance language is considered justifiable. Also considered is the fact that learning how a large scale open source community works is valuable, especially how such a project is managed across orgs, therefore it doesn’t really matter if things really got merged.
-(To-be negotiated, should be able to do better than just KPI, should NOT be superficial as learned xxx)
-Evaluation by project mentors
+   - (To-be negotiated, should be able to do better than just KPI, should NOT be superficial as learned xxx)
+   - Evaluation by project mentors
