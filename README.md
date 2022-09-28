@@ -8,8 +8,7 @@ Team:
   
  
  
-1\. Tingzhou Yuan (tzyuan15@bu.edu)
-
+1\. Tingzhou Yuan (tzyuan15@bu.edu)  
 2\. Alex Lee (alee23@bu.edu)  
 3\. Dabin Jang (djang12@bu.edu)  
 4\. Junyi Tang (jytang2@bu.edu)  
@@ -24,8 +23,7 @@ Mentors:
  
   
  
-1\. James Hunt (james.o.hunt@intel.com) 
-
+1\. James Hunt (james.o.hunt@intel.com)  
 2\. Chao Wu (chaowu@linux.alibaba.com)  
 3\. Zhongtao Hu (zhongtaohu.tim@linux.alibaba.com)
 ## Background: 
